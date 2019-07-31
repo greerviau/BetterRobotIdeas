@@ -1,7 +1,7 @@
 # BetterRobotIdeas
 
 ## Overview
-A Keras implementation of an LSTM that generates new robot ideas for ### [Michael Reeves](https://www.youtube.com/channel/UCtHaxi4GTYDpJgMSGy7AeSw)
+A Keras implementation of an LSTM that generates new robot ideas for [Michael Reeves](https://www.youtube.com/channel/UCtHaxi4GTYDpJgMSGy7AeSw)
 
 ### [YouTube Video](https://www.youtube.com/watch?v=L9m7mMpcB1o&t)
 
