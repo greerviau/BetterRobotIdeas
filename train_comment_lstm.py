@@ -1,7 +1,6 @@
 import pandas as pd
 import numpy as np
 import os, sys
-from bpe import BPE
 from utils import *
 
 SEQ_LENGTH = 24
